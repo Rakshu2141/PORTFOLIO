@@ -2,4 +2,5 @@ node_modules
 dist
 .DS_Store
 *.local
-/.claudepublic/assets/Sushmita_Dasari_Resume.pdf
+/.claude
+public/assets/Sushmita_Dasari_Resume.pdf
